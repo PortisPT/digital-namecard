@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Nuno;Fernandes;;;
+FN: Nuno Fernandes
+ORG:Óptica Belavista;
+TITLE:Optometrista \n Gerente
+EMAIL;type=INTERNET;type=WORK;type=pref:geral@opticabelavista.com
+TEL;type=WORK;type=VOICE:+351 967 076 758
+item1.ADR;type=WORK;type=pref:;;Rua Brotero, Loja36;;;3030-317;Coimbra
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:opticabelavista.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
